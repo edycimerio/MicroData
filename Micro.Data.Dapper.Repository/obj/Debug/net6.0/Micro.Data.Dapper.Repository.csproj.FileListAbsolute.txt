@@ -1,0 +1,15 @@
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\bin\Debug\net6.0\Micro.Data.Dapper.Repository.deps.json
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\bin\Debug\net6.0\Micro.Data.Dapper.Repository.dll
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\bin\Debug\net6.0\Micro.Data.Dapper.Repository.pdb
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\bin\Debug\net6.0\Micro.Data.Domain.dll
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\bin\Debug\net6.0\Micro.Data.Domain.pdb
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\obj\Debug\net6.0\Micro.Data.Dapper.Repository.csproj.AssemblyReference.cache
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\obj\Debug\net6.0\Micro.Data.Dapper.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\obj\Debug\net6.0\Micro.Data.Dapper.Repository.AssemblyInfoInputs.cache
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\obj\Debug\net6.0\Micro.Data.Dapper.Repository.AssemblyInfo.cs
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\obj\Debug\net6.0\Micro.Data.Dapper.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\obj\Debug\net6.0\Micro.Data.Dapper.Repository.csproj.CopyComplete
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\obj\Debug\net6.0\Micro.Data.Dapper.Repository.dll
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\obj\Debug\net6.0\refint\Micro.Data.Dapper.Repository.dll
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\obj\Debug\net6.0\Micro.Data.Dapper.Repository.pdb
+C:\Projetos\Testes\MicroData\MicroData\Micro.Data.Dapper.Repository\obj\Debug\net6.0\ref\Micro.Data.Dapper.Repository.dll
